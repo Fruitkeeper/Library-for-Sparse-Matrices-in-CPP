@@ -1,1 +1,1 @@
-
+cout<<"Your mom";
